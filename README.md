@@ -58,3 +58,10 @@ E-VOTE_kpum_stb_2023 adalah sebuah sistem voting online berbasis website yang da
 
 ## Tampilan Home
 ![Tampilan Home](https://github.com/affalximam/E-VOTE_kpum_stb_2023/assets/62225185/e30c1b74-592c-4d0f-b585-7a6d65efc73b)
+
+## Tampilan Dashboard
+![Screenshot (29)](https://github.com/affalximam/E-VOTE_kpum_stb_2023/assets/62225185/85b6a223-c44a-45fd-9dcc-dadbcd6988a2)
+
+## Tampilan Kelola data pemilih
+![Screenshot (30)](https://github.com/affalximam/E-VOTE_kpum_stb_2023/assets/62225185/5ed26bcd-d8c5-4dd7-b4fd-0ade37126fdc)
+
