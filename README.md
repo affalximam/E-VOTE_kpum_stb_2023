@@ -5,7 +5,6 @@ Adalah sebuah sistem voting online berbasis website yang dapat digunakan pada ja
 List Halaman
 
 A. USER VIEW (Dilihat user)
-
     1. HOME PAGE (Halaman Utama)
     
     2. KONTRIBUTOR (Halaman Kontibutor dan team yang bekerja)
@@ -23,7 +22,6 @@ A. USER VIEW (Dilihat user)
     
     
 B. DATA PEMILIH (Untuk Mengeola data pemilih, butuh akses Admin)
-
    1. TAMBAH PEMILIH (Halaman untuk menambah pemilih)
     
    2. LIST PEMILIH (Halaman untuk menampilkan, serta mengedit data pemilih (read, update, delete) )
