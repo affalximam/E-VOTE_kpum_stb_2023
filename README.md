@@ -2,6 +2,13 @@
 
 E-VOTE_kpum_stb_2023 adalah sebuah sistem voting online berbasis website yang dapat digunakan pada jaringan lokal maupun internet.
 
+## Developer
+
+**Web Design** : Arrazag Panca Putra
+**Front End** : Imam Nurfalah
+**Back End** : Agung Prasetyo
+
+
 ## List Halaman
 
 ### A. USER VIEW (Dilihat oleh user)
