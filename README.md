@@ -45,11 +45,17 @@ E-VOTE_kpum_stb_2023 adalah sebuah sistem voting online berbasis website yang da
 11. **ALLOWED IP TO VOTE** (Halaman untuk (read, update, delete) alamat IP yang diizinkan untuk melakukan vote serta mengaktifkan dan menonaktifkan filter IP)
 
    
-### E. Halaman Lain
+### C. Halaman Lain
 
 1. **"/admin/auth/login"** (Halaman login)
    
 2. **"/admin/auth/login-v2"** (Halaman login autentikasi kedua)
+
+
+## Fitur lainnya
+1. User hanya dapat memilih sekali
+   
+2. Satu akun hanya bisa digunakan sekali
 
 
 ## Tampilan Home
